@@ -1,0 +1,7 @@
+matplotlib
+scikit-image
+pandas
+seaborn
+Pillow
+sphinx-gallery
+scikit-learn
