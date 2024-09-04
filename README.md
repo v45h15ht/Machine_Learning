@@ -14,4 +14,4 @@
 5. Launch JupyterHub Notebook \
 `jupyter notebook`
 
-## Step 2: Start Working on Models
+## Step 2: Start building Models
